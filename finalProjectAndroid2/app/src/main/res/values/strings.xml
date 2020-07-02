@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">finalProjectAndroid2</string>
+    <string-array name="names">
+        <item>Select</item>
+        <item>Break</item>
+        <item>Day off</item>
+        <item>Sick day</item>
+        <item>Start time and end time</item>
+    </string-array>
+
+    <string-array name="haircuts">
+        <item>Select</item>
+        <item>"man's haircut"</item>
+        <item>"woman's haircut"</item>
+    </string-array>
+
+</resources>
