@@ -1,6 +1,6 @@
 # barbershop-Schedule
 
-![Log in screen](https://github.com/barak03/barbershop-Schedule/blob/master/images/customer%20log%20in.jpg = 400x200)
+![Log in screen](https://github.com/barak03/barbershop-Schedule/blob/master/images/customer%20log%20in.jpg | width=200 height=400  )
 
 
 ## About the app:
