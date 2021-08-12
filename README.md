@@ -1,6 +1,6 @@
 # barbershop-Schedule
 
-![Main screen](https://github.com/barak03/barbershop-Schedule/blob/master/images/customer%20log%20in.jpg width="200" height="400")
+Project images can be found here: https://github.com/barak03/barbershop-Schedule/tree/master/images
 
 ## About the app:
 Barbershop queue management Java application.
